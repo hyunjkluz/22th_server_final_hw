@@ -1,0 +1,4 @@
+config/
+module/
+node_modules/
+IAM_Key.txt
